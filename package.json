@@ -1,0 +1,17 @@
+{
+  "name": "avl-dashboard",
+  "version": "1.0.0",
+  "description": "POC for AVL dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caragh Lyons",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "geojson": "^0.3.0",
+    "jsonfile": "^2.3.0",
+    "xlsx": "^0.8.0"
+  }
+}
